@@ -97,7 +97,7 @@ const ramesh = {
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rameshkrishnan?theme=dark&font=Noto%20Sans&border_radius=20&border=3CE0F7)
 
 ### 🌟 Coding Streak
-[![@rameshkrishnan's Holopin board](https://holopin.io/api/user/board?user=rameshkrishnan)](https://holopin.io/@rameshkrishnan)
+[![@rameshkrishnan's Holopin board](https://holopin.io/api/user/board?user=rameshkrishnans)](https://holopin.io/@rameshkrishnan)
 
 </div>
 
@@ -109,9 +109,9 @@ const ramesh = {
   
 | 🎯 Goal | 📝 Description | 🔄 Progress |
 |:-------:|:-------------:|:-----------:|
-| 💻 Coding Skills | Improving problem-solving and algorithmic thinking | ![Progress](https://progress-bar.dev/85/?title=DSA&color=3CE0F7) |
-| 🌱 Learning | Exploring new technologies and frameworks | ![Progress](https://progress-bar.dev/75/?title=Tech&color=3CE0F7) |
-| 🤝 Open Source | Contributing to meaningful open-source projects | ![Progress](https://progress-bar.dev/60/?title=OSS&color=3CE0F7) |
+| 💻 Coding Skills | Improving problem-solving and algorithmic thinking | ![](https://img.shields.io/badge/Progress-85%25-3CE0F7?style=flat-square) |
+| 🌱 Learning | Exploring new technologies and frameworks | ![](https://img.shields.io/badge/Progress-75%25-3CE0F7?style=flat-square) |
+| 🤝 Open Source | Contributing to meaningful open-source projects | ![](https://img.shields.io/badge/Progress-60%25-3CE0F7?style=flat-square) |
 
 </div>
 
