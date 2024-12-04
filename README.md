@@ -34,16 +34,14 @@ const ramesh = {
     askMeAbout: ["web dev", "tech", "software architecture", "cloud"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"]
+            js: ["React"],
+            css: ["Tailwind", "Material-UI"]
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "FastAPI"]
+            js: ["Node"],
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        cloud: ["AWS", "Docker", "Kubernetes"],
-        tools: ["Git", "Postman", "VS Code", "Jira"]
+        databases: ["MongoDB"],
+        tools: ["Git", "VS Code"]
     },
     currentFocus: "Building scalable applications & Contributing to Open Source",
     funFact: "There are two ways to write error-free programs; only the third one works"
@@ -80,7 +78,6 @@ const ramesh = {
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rameshkrishnan-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ramesh's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-languages/?username=rameshkrishnan-s&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" />
 </div>
 
 <div align="center">
