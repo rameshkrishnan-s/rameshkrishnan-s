@@ -25,7 +25,7 @@
 const ramesh = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Python", "Java", "TypeScript"],
-    askMeAbout: ["web dev", "tech", "software architecture", "cloud"],
+    askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
             js: ["React"],
