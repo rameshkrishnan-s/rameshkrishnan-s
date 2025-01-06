@@ -37,8 +37,7 @@ const ramesh = {
         databases: ["MongoDB"],
         tools: ["Git", "VS Code"]
     },
-    currentFocus: "Building scalable applications & Contributing to Open Source",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Building scalable applications & Contributing to Open Source"
 };
 ```
 
