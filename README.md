@@ -68,10 +68,6 @@ const ramesh = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameshkrishnan-s&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&radius=16" width="100%"/>
-</div>
-
-<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rameshkrishnan-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ramesh's GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshkrishnan-s&theme=tokyonight&hide_border=true&background=0D1117&stroke=3CE0F7&ring=3CE0F7&currStreakNum=FFFFFF" alt="GitHub Streak Stats"/>
 </div>
