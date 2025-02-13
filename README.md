@@ -13,6 +13,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/rameshkrishnan-s?style=for-the-badge&color=3CE0F7&labelColor=1A1B27&border_color=3CE0F7)](https://github.com/rameshkrishnan-s)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3CE0F7?style=for-the-badge&logo=Linkedin&logoColor=1A1B27&labelColor=3CE0F7)](https://www.linkedin.com/in/rameshkrishnanS)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3CE0F7?style=for-the-badge&logo=leetcode&logoColor=1A1B27&labelColor=3CE0F7)](https://leetcode.com/u/rameshkrishnan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3CE0F7?style=for-the-badge&logo=google-chrome&logoColor=1A1B27&labelColor=3CE0F7)](https://my-portfolio-orpin-six-75.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=rameshkrishnan-s&style=for-the-badge&color=3CE0F7)](https://github.com/rameshkrishnan-s)
 
 </div>
@@ -68,20 +69,11 @@ const ramesh = {
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rameshkrishnan-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ramesh's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rameshkrishnan-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshkrishnan-s&theme=tokyonight&hide_border=true&background=0D1117&stroke=3CE0F7&ring=3CE0F7&currStreakNum=FFFFFF" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-### 🌟 Achievements Overview
-- **LeetCode Challenges**: <a href="https://leetcode.com/u/rameshkrishnan/"><img src="https://leetcard.jacoblin.cool/rameshkrishnan?theme=dark&font=Noto%20Sans&border_radius=20&border=3CE0F7" alt="LeetCode Stats" style="border-radius: 10px;"/></a>
-- **Open Source Contributions**: <a href="https://holopin.io/@rameshkrishnan"><img src="https://holopin.io/api/user/board?user=rameshkrishnans" alt="Holopin Board" style="border-radius: 10px;"/></a>
-
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameshkrishnan-s&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rameshkrishnan-s&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
 </div>
 
 ---
@@ -89,22 +81,12 @@ const ramesh = {
 ## Let's Connect!
 
 <div align="center">
-  
-<a href="mailto:sundarrajanrameshkrishnan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=15" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/rameshkrishnanS"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=15" alt="LinkedIn"/></a>
-<a href="https://x.com/Ramesh30739342"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&borderRadius=15" alt="Twitter"/></a>
-<a href="https://github.com/rameshkrishnan-s?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=15" alt="GitHub Repositories"/></a>
-<a href="https://leetcode.com/u/rameshkrishnan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&borderRadius=15" alt="LeetCode"/></a>
-
+<a href="mailto:sundarrajanrameshkrishnan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/rameshkrishnanS"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Ramesh30739342"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://github.com/rameshkrishnan-s?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/></a>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
-
-<div align="center">
-  
-### 💖 Thank you for visiting my profile! Let's collaborate and build something amazing together! ⭐️
-
-</div>
-
